@@ -1,0 +1,7 @@
+Make it headless - use PhantomJS (keep Firefox as an option)
+
+Read in search terms from a text file
+
+Parallelize it
+
+Search sites other than Google (Facebook, Yelp, etc.)
